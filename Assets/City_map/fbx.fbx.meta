@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: a08dcd1cf071f08418f7b7f9a3c8b3dc
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_big_color01
+    second: {fileID: 2100000, guid: a2e95708410e0084cb861e13a83a0503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_big_color02
+    second: {fileID: 2100000, guid: 914ccc9ef84dd744d930aca884d94b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_big_color03
+    second: {fileID: 2100000, guid: 0787dc37244b2a346b0b011dbedefb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_small_color01
+    second: {fileID: 2100000, guid: 0c8dbc065fed11e4d9f27a9c84bb0acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_small_color02
+    second: {fileID: 2100000, guid: fd8c2f802d5aab84392783bd4ece76e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building Sky_small_color03
+    second: {fileID: 2100000, guid: ce1e07db1a9f69b428bf0655b541ffe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Auto Service
+    second: {fileID: 2100000, guid: 4409faeba0da2024d88ee6274ea55f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Bakery
+    second: {fileID: 2100000, guid: 1174e14f325334b4eb826bdf7cc63ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Bar
+    second: {fileID: 2100000, guid: 4f94395b7d395bf42bb1bce68e79032d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Books Shop
+    second: {fileID: 2100000, guid: 5588f12cb5ee4cd44a48525a99be3998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Chicken Shop
+    second: {fileID: 2100000, guid: f511813ade129ff49b2f71611ddfc116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Clothing
+    second: {fileID: 2100000, guid: 6b72e37cd120ec54799f9d658583f54e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Coffee Shop
+    second: {fileID: 2100000, guid: f4cc1fc3cb81dca44bada27e643108bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Drug Store
+    second: {fileID: 2100000, guid: 762431d4db4bf584f9b9a0394436c6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Factory
+    second: {fileID: 2100000, guid: eae95bba51566364f9849364bec7e4b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Fast Food
+    second: {fileID: 2100000, guid: b2fb6ab2c6f5c2e4d936be31609da498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Fruits  Shop
+    second: {fileID: 2100000, guid: c326e29da6725ce4ebba3186e00cea40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Gas Station
+    second: {fileID: 2100000, guid: a12ad70d2f353c645a110870a2360ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Gift Shop
+    second: {fileID: 2100000, guid: 5a156283a9b88a44ebd09f26bb59e51f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_01_color01
+    second: {fileID: 2100000, guid: 22e5bab63841f3e4781711395de7823a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_01_color02
+    second: {fileID: 2100000, guid: b14fe502bf0e77f44922c59cf4c1b72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_01_color03
+    second: {fileID: 2100000, guid: 0e3e7a310a0992944a306b5aadfa5a97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_02_color01
+    second: {fileID: 2100000, guid: 534f6b97f7780c2499d009eb5a3029f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_02_color02
+    second: {fileID: 2100000, guid: 2bffc062087a79748ad803dcffc15117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_02_color03
+    second: {fileID: 2100000, guid: 61ffb23d87638ea4582e10a362696a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_03_color01
+    second: {fileID: 2100000, guid: c3d20b8183ab6e244b6f8985f7fa0545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_03_color02
+    second: {fileID: 2100000, guid: 8310a5aaf1701324cbb2c6cdd23a344f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_03_color03
+    second: {fileID: 2100000, guid: 483ebf762f5b55748902f5221ffbc9ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_04_color01
+    second: {fileID: 2100000, guid: d86bab0df597f194fa75fd88b56bbb1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_04_color02
+    second: {fileID: 2100000, guid: 0d7faac483a540349b39817bd2b03c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_House_04_color03
+    second: {fileID: 2100000, guid: b4ab3d56cf72454438d31154b5fd67b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Music Store
+    second: {fileID: 2100000, guid: 11c1a182638e06340a469532e3aa09e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Pizza
+    second: {fileID: 2100000, guid: 2795f104af202b347abde38c25c25757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Residential_color01
+    second: {fileID: 2100000, guid: 1fba688a352fdc04e9b364d039a1d3aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Residential_color02
+    second: {fileID: 2100000, guid: ecf9bfa4dba757041ae4621dd37760d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Residential_color03
+    second: {fileID: 2100000, guid: d2a68f89ddb3fc94494983cfd2671540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Restaurant
+    second: {fileID: 2100000, guid: 8498c8a7c6ba6804a897625aed8858f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Shoes Shop
+    second: {fileID: 2100000, guid: 305448ca7946e9f4983e766d53f67b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Stadium
+    second: {fileID: 2100000, guid: 3d914d2d4c9ce834aa0b584feaeb31b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Super Market
+    second: {fileID: 2100000, guid: a5517a0ee112952479db20dcf06d2ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Natures
+    second: {fileID: 2100000, guid: e6744d9332f36484ca4502c766c918a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_BillBoard_large
+    second: {fileID: 2100000, guid: a7a3c10a9b3da734ea12fd2593e7b59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_BillBoard_medium
+    second: {fileID: 2100000, guid: 34d31654fcf01dc4ba89652c5c720b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_BillBoard_small
+    second: {fileID: 2100000, guid: 8dfefe4dba1e3d24dbf89b694f48f438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_Props_01
+    second: {fileID: 2100000, guid: e27a10005124d3345ac60727932ea9f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_RoofProps
+    second: {fileID: 2100000, guid: 6ca5446a6bd1ec94c8e4b4a94b09bf5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_TrafficProps
+    second: {fileID: 2100000, guid: 2b07514be20fadf4ebb1db3115770833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: 5d3616beab1711f4aa86f4f19921ce01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Ambulance
+    second: {fileID: 2100000, guid: 4e2d708490df31d47842dacc2d5d4c47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Bus_color01
+    second: {fileID: 2100000, guid: 1d54511343202574a9c9b3fbb1d93b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Bus_color02
+    second: {fileID: 2100000, guid: 70e3284aacaf06d4d979cce11fc564dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Bus_color03
+    second: {fileID: 2100000, guid: 96bc8e611d7c1a44a828e79a1dcceb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Car_color01
+    second: {fileID: 2100000, guid: f589c4704303ab54797382f09beb0e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Car_color02
+    second: {fileID: 2100000, guid: 28db98e579eaf954594a86bac34408ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Car_color03
+    second: {fileID: 2100000, guid: 698a2fb5c44784747a9537027623d408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Container_color01
+    second: {fileID: 2100000, guid: 371c57c9e96eedf4ca2a967252098999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Container_color02
+    second: {fileID: 2100000, guid: 31954fa7906b1b84884ddcbb5607347d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Container_color03
+    second: {fileID: 2100000, guid: 7f2c0c328f84fa843882e67bfec2eb25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Pick up Truck_color01
+    second: {fileID: 2100000, guid: cbdc69d20a69be74eb64703d4348c3fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Pick up Truck_color02
+    second: {fileID: 2100000, guid: 2f5a9d0eeb69eb947900c9945ae13538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Pick up Truck_color03
+    second: {fileID: 2100000, guid: 78e054e0023edfb4cacf72a469e2fac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Police Car
+    second: {fileID: 2100000, guid: da6ada69cb53e6d4eaf12062b47a2282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_SUV_color01
+    second: {fileID: 2100000, guid: 63640cef5e5dbb848a9ade0040517112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_SUV_color02
+    second: {fileID: 2100000, guid: 5e4aac0977cf18f4aa9f46f4b4746303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_SUV_color03
+    second: {fileID: 2100000, guid: 0436b9b966729e34887a6d60d6973aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Taxi
+    second: {fileID: 2100000, guid: 7c0a00c1542a4804aa0f4f0de9058f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Truck_color01
+    second: {fileID: 2100000, guid: e0dd6a0101556464d8fbae7e2a827784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Truck_color02
+    second: {fileID: 2100000, guid: 9702c9f79d0767341bdce38bb014d784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_Truck_color03
+    second: {fileID: 2100000, guid: d40c16d8a635a7e4382c0eff5c7d56d3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
