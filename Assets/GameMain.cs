@@ -11,26 +11,26 @@ public class GameMain : MonoBehaviour
     public Text end;
     int unit = 110;
     int unitE = 17;
-    public XRInteractorLineVisual lineLelf;
-    public XRInteractorLineVisual lineR;
-    public GameObject dot;
+    //public XRInteractorLineVisual lineLelf;
+    //public XRInteractorLineVisual lineR;
+    //public GameObject dot;
     void Start()
     {
-        dot.SetActive(false);
+      //  dot.SetActive(false);
     }
     private void OnEnable()
     {
         oxy.text = "OXYGEN " + unit.ToString() + " UNIT";
         end.text = "ENERGY " + unitE.ToString() + " UNIT";
-        lineLelf.enabled = true;
-        lineR.enabled = true;
-        dot.SetActive(true);
+     //   lineLelf.enabled = true;
+     //   lineR.enabled = true;
+     //   dot.SetActive(true);
     }
     private void OnDisable()
     {
-        lineLelf.enabled = false;
-        lineR.enabled = false;
-        dot.SetActive(false);
+      //  lineLelf.enabled = false;
+        //lineR.enabled = false;
+        //dot.SetActive(false);
  
     }
   
