@@ -178,6 +178,22 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
+                },
+                {
+                    "name": "PhimX",
+                    "type": "Button",
+                    "id": "437372e0-2026-4840-8d8c-4bc5dc762d19",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PhimY",
+                    "type": "Button",
+                    "id": "37831279-917b-4253-884e-d28a0be12801",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
                 }
             ],
             "bindings": [
@@ -488,6 +504,28 @@
                     "action": "Teleport Start",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "d6e1b511-d964-4ddb-8a7e-ee9dd4c86768",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PhimX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e973f9a8-11ff-4ac6-aa94-e6af1795088b",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PhimY",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -588,6 +626,22 @@
                     "type": "Value",
                     "id": "9b5d8312-f609-4895-b70f-81a722b2ae11",
                     "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PhimA",
+                    "type": "Button",
+                    "id": "c367ecff-a59b-4c8a-9c8d-94e404af24b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PhimB",
+                    "type": "Button",
+                    "id": "1f17c865-ad75-4eb6-a0e8-a7c8aabccc29",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 }
@@ -834,6 +888,28 @@
                     "action": "Turn",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "d3ae4a4b-121f-47d6-bb2d-7919991befaa",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PhimA",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d106ed72-ff42-4625-be8b-1b7e95475b54",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PhimB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
