@@ -1,11 +1,16 @@
 fileFormatVersion: 2
-guid: e87624242d234dd4a8a1d70b0999bea9
+guid: dccab7a0af10aa849af89f3bfacd5643
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VASOMat
+    second: {fileID: 2100000, guid: c5f3e51569bae384c8aae4779ef755d6, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
